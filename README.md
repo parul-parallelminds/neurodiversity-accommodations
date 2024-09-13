@@ -3,7 +3,7 @@ An open source list of different workplace accommodations for Neurodivergent peo
 
 # Digital tools 
 
-<details> 
+<details open> 
 <summary>Meeting transcription</summary>
 
 * [Tactiq](app.tactiq.io/) 
